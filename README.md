@@ -15,7 +15,11 @@ Dependencies are defined in the `requirements.txt` file.
 It would be a good idea to identify and even backup your **"main/active"** Firefox profile or allthe  profiles you are actively using in Firefox.
 
 To locate your profile path you can type `about:profiles` in your Firefox tab. You will find your **profiles path locations**
-where you can run a backup.
+where you can create a backup.
+
+You can always run Firefox with the profile manager prompt using:
+
+`$ firefox --ProfileManager`
 
 ### Default install location
 
