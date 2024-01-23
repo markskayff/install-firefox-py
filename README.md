@@ -10,6 +10,13 @@ Just run this python script, select the Firefox flavor you want and you are good
 
 Dependencies are defined in the `requirements.txt` file.
 
+### Warning
+
+It would be a good idea to identify and even backup your **"main/active"** Firefox profile or allthe  profiles you are actively using in Firefox.
+
+To locate your profile path you can type `about:profiles` in your Firefox tab. You will find your **profiles path locations**
+where you can run a backup.
+
 ### Default install location
 
 The script will attempt to install by default at: `/usr/lib/`
