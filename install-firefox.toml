@@ -1,4 +1,4 @@
-version='0.1'
-python_version='3.12.1'
+version='0.7'
+min_python_version="3.8"
 author="Marcos Scaianschi"
 author_email="markskayff@gmail.com"
