@@ -1,5 +1,8 @@
 # Firefox Installer for Linux distros
 
+![Dynamic TOML Badge](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarkskayff%2Finstall-firefox-py%2Fmain%2Finstall-firefox.toml&query=%24.min_python_version&suffix=%2B&style=flat&label=Min%20Python)
+
+
 Python script for installing/updating to the latest available Firefox version.
 
 Firefox in Linux does not come with an **auto update** so it's hard to stay at the edge with a latest firefox version.
