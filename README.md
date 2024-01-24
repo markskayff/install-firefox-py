@@ -5,7 +5,8 @@
 
 Python script for installing/updating to the latest available Firefox version.
 
-Firefox in Linux does not come with an **auto update** so it's hard to stay at the edge with a latest firefox version.
+In some Linux distros Firefox is not **auto updating** or package managers do have an old and not even close to the latest version/package available.
+It's hard to stay at the edge with the latest firefox available out there then.
 
 Just run this python script, select the Firefox flavor you want and you are good to go.
 
